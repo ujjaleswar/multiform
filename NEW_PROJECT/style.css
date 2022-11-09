@@ -1,0 +1,51 @@
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+    margin: .4rem 0;
+
+}
+  input{
+  width: 20%;
+  
+}
+div.Dob-container{
+    width: 200%;
+}
+.email-container{
+    width: 200%;
+}
+.NAT-container{
+    width: 200%; 
+}
+.HOMADD-container{
+    width: 200%;
+}
+.HOMTEL-container{
+    width: 200%;
+}
+.MOB-container{
+    width: 200%;
+}
+.Fname-container{
+    width: 100%;
+}
+.Mname-container{
+    width: 100%;
+}
+.ad{
+    width: 100%;
+}
+.GEN-container{
+    width: 30%;
+
+}
+.name-container{
+    width: 100%;
+}
+.group2,label{
+    width: 200%;
+}
